@@ -1,0 +1,3 @@
+ls -lhrt
+or
+ls -l -h -r -t -a
